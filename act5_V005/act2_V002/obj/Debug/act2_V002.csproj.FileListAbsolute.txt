@@ -1,0 +1,212 @@
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\SharpDevelop Projects\act2_V002\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act3_V001\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\act3_V001\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\act3_V001\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act3_V001\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\act3_V001\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act3_V001\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V002\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V002\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V002\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V002\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V002\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V002\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V003\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V003\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V003\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V003\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V003\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V003\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act3_V003\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\act3_V003\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\act3_V003\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act3_V003\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\act3_V003\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V004\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V005\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act3_V005\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Documents\act3_V005\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act3_V005\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act3_V005\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\act3_V005\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\act3_V005\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act3_V005\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\act3_V005\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act3_V005\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\act3_V006\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act4_V001\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\act4_V001\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\act4_V001\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act4_V001\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\act4_V001\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act4_V001\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Documents\act4_V001\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act4_V001\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act4_V001\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V001\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act4_V002\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Documents\act4_V002\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act4_V002\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act4_V002\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\act4_V002\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\act4_V002\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act4_V002\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\act4_V002\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act4_V002\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V002\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V003\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V004\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 4\act4_V005\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Downloads\act4_V005\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\sharp\act4_V005\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V001\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V002\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V003\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Roman\Documents\SharpDevelop Projects\actividad 5\act5_V004\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act5_V004\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\Usuario\Documents\act5_V004\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act5_V004\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\Usuario\Documents\act5_V004\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\act5_V004\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\Usuario\Documents\act5_V004\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\Usuario\Documents\act5_V004\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\act5_V004\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\Usuario\Documents\act5_V004\act2_V002\obj\Debug\act2_V002.pdb
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\bin\Debug\act2_V002.exe.config
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\bin\Debug\act2_V002.exe
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\bin\Debug\act2_V002.pdb
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\obj\Debug\act2_V002.csprojResolveAssemblyReference.cache
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\obj\Debug\act2_V002.MainForm.resources
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\obj\Debug\act2_V002.prueba.resources
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\obj\Debug\act2_V002.csproj.GenerateResource.Cache
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\obj\Debug\act2_V002.exe
+C:\Users\RomanFM\Downloads\act5_V005\act2_V002\obj\Debug\act2_V002.pdb
